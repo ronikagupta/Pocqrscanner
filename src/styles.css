@@ -1,0 +1,19 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .viewport {
+    position: relative;
+  }
+  video {
+    width: 100vmin;
+    object-fit: cover;
+  }
+  canvas {
+    width: 100vmin;
+    left: 0;
+    top: 0;
+    position: absolute;
+  }
+  
